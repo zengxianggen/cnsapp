@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/volume.js" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f87d59fc-4d2c-4cf5-8b97-b8df458b8a9d" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="eventCommon.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/eventCommon.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="44" column="29" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lcui.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/uiCommon/lcui.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="551" column="30" lean-forward="false" selection-start-line="551" selection-start-column="30" selection-end-line="551" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_livetv/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="861">
+              <caret line="41" column="38" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="livepage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/page/live/livepage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1575">
+              <caret line="75" column="38" lean-forward="true" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="caFingerDlg.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/page/live/caFingerDlg.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="51" column="32" lean-forward="false" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+              <folding>
+                <marker date="1512106339938" expanded="true" signature="1216:1244" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lcres.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/uiBase/lcres.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keyCommon.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/keyCommon.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PersonalAuthenticationPin</find>
+      <find>inputDlg</find>
+      <find>UI</find>
+      <find>passwdEdit</find>
+      <find>PasswdDialog</find>
+      <find>UIDialogPasswordEdit</find>
+      <find>openTimer</find>
+      <find>getCABouquetId</find>
+      <find>bid</find>
+      <find>onkey</find>
+      <find>gmodules</find>
+      <find>saveItems</find>
+      <find>LcTree</find>
+      <find>createGroup</find>
+      <find>travel</find>
+      <find>travelInChildren</find>
+      <find>getNextFocusById</find>
+      <find>attach</find>
+      <find>onArrowKey</find>
+      <find>lostFocus</find>
+      <find>chang</find>
+      <find>\</find>
+      <find>UIWm</find>
+      <find>UIModu</find>
+      <find>UIFra</find>
+      <find>UIFram</find>
+      <find>UIFrame</find>
+      <find>UIF</find>
+      <find>(new UIModule()).go(LivePage);</find>
+      <find>proc</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_personal_setting/js/uiBase/lcres.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/uiBase/lcres.js" />
+        <option value="$PROJECT_DIR$/js/uiBase/lcres.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_personal_setting/js/page/parent_child_channel_lock/work_time_setting.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_personal_setting/js/page/parent_child_channel_lock/lock_right_control.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_personal_setting/index.html" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/recordSchCommon.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_personal_setting/js/page/screen_sound/screen_sound.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_pvr_scheduleByTime/js/page/recording/recordingByTime.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/vbm.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/vbmClient.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/merge.bat" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_tvportal/js/page/tvportal/ad.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/page/live/ticker.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/dlgCommon.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/volume.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/page/live/banner.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/keyCommon.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/vbmUpload.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/dialog.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/dsmccCommon.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/Cns.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_tvportal/index.html" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/vbmCommon.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/uiCommon/uiCommon.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_tvportal/js/uiBase/lcres.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/changhong.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/appCommon.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/dtvCommon.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_pvr_recordedList/js/page/recorded/recordedList.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_personal_setting/js/page/personal_setting_menu.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/sysCommon.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/remote.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_system_setting/js/uiCustom/widget/dialog_password_edit.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_system_setting/index.html" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/page/live/noOrder.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_system_setting/js/page/scan_channel/scan_channel.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/caCommon.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/page/live/caMsgDlg.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/page/live/caMailDlg.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_livetv/index.html" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/page/live/caOsdDlg.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/eventCommon.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/epgCommon.js" />
+        <option value="$PROJECT_DIR$/js/page/epg/epgPage.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/reservationCommon.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_tvportal/js/page/tvportal/tvportal.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/page/live/livepage.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/page/live/caFingerDlg.js" />
+        <option value="$PROJECT_DIR$/../cview_app_6z18_dtvBase/uiCommon/lcui.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-270" />
+    <option name="y" value="10" />
+    <option name="width" value="1540" />
+    <option name="height" value="923" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cview_app_6z18_cns_epg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cview_app_6z18_cns_epg" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="cview_app_6z18_cns_epg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cview_app_6z18_cns_epg" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="cview_app_6z18_cns_livetv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cview_app_6z18_cns_epg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cview_app_6z18_cns_epg" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="cview_app_6z18_cns_livetv" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cview_app_6z18_cns_epg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cview_app_6z18_cns_epg" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="cview_app_6z18_cns_livetv" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cview_app_6z18_cns_epg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cview_app_6z18_cns_epg" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="cview_app_6z18_cns_livetv" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="live" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cview_app_6z18_cns_epg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cview_app_6z18_cns_epg" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="cview_app_6z18_cns_livetv" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="uiBase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cview_app_6z18_cns_epg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cview_app_6z18_cns_epg" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="cview_app_6z18_cns_tvportal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cview_app_6z18_cns_epg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cview_app_6z18_cns_epg" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="cview_app_6z18_cns_tvportal" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cview_app_6z18_cns_epg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cview_app_6z18_cns_epg" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="cview_app_6z18_cns_tvportal" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cview_app_6z18_cns_epg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cview_app_6z18_cns_epg" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="cview_app_6z18_cns_tvportal" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="tvportal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cview_app_6z18_cns_epg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cview_app_6z18_cns_epg" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="cview_app_6z18_dtvBase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cview_app_6z18_cns_epg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cview_app_6z18_cns_epg" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="cview_app_6z18_dtvBase" type="462c0819:PsiDirectoryNode" />
+              <item name="uiCommon" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cview_app_6z18_cns_pvr_scheduleByTime" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f87d59fc-4d2c-4cf5-8b97-b8df458b8a9d" name="Default" comment="" />
+      <created>1499045104031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499045104031</updated>
+      <workItem from="1499045105357" duration="16261000" />
+      <workItem from="1499077293508" duration="1883000" />
+      <workItem from="1499128404632" duration="2745000" />
+      <workItem from="1499158158789" duration="5330000" />
+      <workItem from="1499213984469" duration="11910000" />
+      <workItem from="1501466126259" duration="409000" />
+      <workItem from="1501466581727" duration="8769000" />
+      <workItem from="1501481023083" duration="17405000" />
+      <workItem from="1501547591501" duration="33050000" />
+      <workItem from="1501633865120" duration="27071000" />
+      <workItem from="1501720726242" duration="22415000" />
+      <workItem from="1501806682694" duration="7271000" />
+      <workItem from="1501814750441" duration="265000" />
+      <workItem from="1501815731094" duration="22000" />
+      <workItem from="1502086741312" duration="639000" />
+      <workItem from="1502091864259" duration="165000" />
+      <workItem from="1502160596306" duration="86000" />
+      <workItem from="1502161229696" duration="396000" />
+      <workItem from="1502170901445" duration="217000" />
+      <workItem from="1502171798879" duration="239000" />
+      <workItem from="1502243225643" duration="104000" />
+      <workItem from="1502245748899" duration="54000" />
+      <workItem from="1502245860805" duration="7000" />
+      <workItem from="1502246744796" duration="83000" />
+      <workItem from="1502327861139" duration="346000" />
+      <workItem from="1502330834397" duration="441000" />
+      <workItem from="1502345921196" duration="417000" />
+      <workItem from="1502347772963" duration="1007000" />
+      <workItem from="1502357206181" duration="103000" />
+      <workItem from="1502446730836" duration="225000" />
+      <workItem from="1502670638450" duration="31373000" />
+      <workItem from="1502757070072" duration="27814000" />
+      <workItem from="1502843478100" duration="25088000" />
+      <workItem from="1502880318474" duration="2821000" />
+      <workItem from="1502929909153" duration="3539000" />
+      <workItem from="1502933891880" duration="14557000" />
+      <workItem from="1502966944499" duration="783000" />
+      <workItem from="1503016268474" duration="6595000" />
+      <workItem from="1503033627124" duration="5861000" />
+      <workItem from="1503039755529" duration="8899000" />
+      <workItem from="1503275758565" duration="17402000" />
+      <workItem from="1503362101239" duration="22350000" />
+      <workItem from="1503448528616" duration="2365000" />
+      <workItem from="1503977222698" duration="176000" />
+      <workItem from="1503990278687" duration="3723000" />
+      <workItem from="1504001365851" duration="2471000" />
+      <workItem from="1504053160754" duration="2581000" />
+      <workItem from="1504839822880" duration="4000" />
+      <workItem from="1504839933036" duration="12063000" />
+      <workItem from="1504934723264" duration="5034000" />
+      <workItem from="1505090254435" duration="12901000" />
+      <workItem from="1505176410210" duration="28557000" />
+      <workItem from="1505263160188" duration="26476000" />
+      <workItem from="1505349722058" duration="28182000" />
+      <workItem from="1505436222764" duration="23399000" />
+      <workItem from="1505695113661" duration="25602000" />
+      <workItem from="1505782254347" duration="24624000" />
+      <workItem from="1505868039046" duration="28651000" />
+      <workItem from="1505954194294" duration="26207000" />
+      <workItem from="1505989466678" duration="1751000" />
+      <workItem from="1506040561227" duration="29548000" />
+      <workItem from="1506299641061" duration="13063000" />
+      <workItem from="1506323367639" duration="129000" />
+      <workItem from="1506327469889" duration="9459000" />
+      <workItem from="1506385813473" duration="21283000" />
+      <workItem from="1506472380701" duration="18011000" />
+      <workItem from="1506558843123" duration="9248000" />
+      <workItem from="1506644792747" duration="16876000" />
+      <workItem from="1508114013843" duration="17688000" />
+      <workItem from="1508200362378" duration="20277000" />
+      <workItem from="1508287201517" duration="17322000" />
+      <workItem from="1508373069766" duration="12051000" />
+      <workItem from="1508460126346" duration="5702000" />
+      <workItem from="1508718901345" duration="3067000" />
+      <workItem from="1508729163157" duration="16112000" />
+      <workItem from="1508805362147" duration="27683000" />
+      <workItem from="1508891214763" duration="26231000" />
+      <workItem from="1508978386494" duration="20390000" />
+      <workItem from="1509064535070" duration="5129000" />
+      <workItem from="1509324190117" duration="2568000" />
+      <workItem from="1509327553272" duration="23834000" />
+      <workItem from="1509426323477" duration="13356000" />
+      <workItem from="1509496319995" duration="26380000" />
+      <workItem from="1509582684565" duration="14126000" />
+      <workItem from="1509669281940" duration="1832000" />
+      <workItem from="1509928259682" duration="663000" />
+      <workItem from="1510040910030" duration="7436000" />
+      <workItem from="1510101130231" duration="29488000" />
+      <workItem from="1510190581432" duration="635000" />
+      <workItem from="1510194243433" duration="1768000" />
+      <workItem from="1510223277794" duration="1487000" />
+      <workItem from="1510274345621" duration="21007000" />
+      <workItem from="1510533964063" duration="10862000" />
+      <workItem from="1510619614682" duration="3644000" />
+      <workItem from="1510714046708" duration="5731000" />
+      <workItem from="1510752721719" duration="516000" />
+      <workItem from="1510792003482" duration="2060000" />
+      <workItem from="1510799313966" duration="11738000" />
+      <workItem from="1511140614398" duration="8432000" />
+      <workItem from="1511224522117" duration="10971000" />
+      <workItem from="1511258717179" duration="1259000" />
+      <workItem from="1511273766455" duration="701000" />
+      <workItem from="1511310836328" duration="10820000" />
+      <workItem from="1511397233854" duration="16858000" />
+      <workItem from="1511483526317" duration="20335000" />
+      <workItem from="1511742669072" duration="16562000" />
+      <workItem from="1511785916725" duration="2348000" />
+      <workItem from="1511829517587" duration="14782000" />
+      <workItem from="1511875181696" duration="2808000" />
+      <workItem from="1511915745278" duration="12032000" />
+      <workItem from="1512002006382" duration="601000" />
+      <workItem from="1512022356346" duration="7001000" />
+      <workItem from="1512044856879" duration="3587000" />
+      <workItem from="1512088381974" duration="7460000" />
+      <workItem from="1512130774599" duration="1331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1187472000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.00804721" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3090129" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971507" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32692307" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32700136" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971507" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32692307" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971507" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.00804721" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24599709" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32700136" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.bat" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/dtvBase/recordSchCommon.js</url>
+          <line>764</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/dtvBase/recordSchCommon.js</url>
+          <line>690</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../cview_app_6z18_cns_recorded_list/js/page/recorded/recordedList.js</url>
+          <line>402</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/recordSchCommon.js</url>
+          <line>1248</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/remote.js</url>
+          <line>909</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/sysCommon.js</url>
+          <line>141</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="97" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/scanCommon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/dsmccCommon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/Cns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="1580" column="10" lean-forward="false" selection-start-line="1580" selection-start-column="10" selection-end-line="1580" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/vbmUpload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="1054" column="19" lean-forward="false" selection-start-line="1054" selection-start-column="9" selection-end-line="1054" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_tvportal/js/page/tvportal/ad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4053">
+          <caret line="193" column="44" lean-forward="false" selection-start-line="193" selection-start-column="44" selection-end-line="193" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/vbmCommon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5628">
+          <caret line="268" column="57" lean-forward="false" selection-start-line="268" selection-start-column="57" selection-end-line="268" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_tvportal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="7" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_tvportal/js/uiBase/lcres.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/changhong.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="84" lean-forward="false" selection-start-line="0" selection-start-column="84" selection-end-line="0" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/uiCommon/uiCommon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_pvr_recordedList/js/page/recorded/recordedPlay.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="69" column="47" lean-forward="false" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_pvr_recordedList/js/page/recorded/mediaPlayBanner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8841">
+          <caret line="421" column="43" lean-forward="false" selection-start-line="421" selection-start-column="39" selection-end-line="421" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_pvr_recordedList/js/page/recorded/recordedList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3948">
+          <caret line="188" column="36" lean-forward="true" selection-start-line="188" selection-start-column="36" selection-end-line="188" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_system_setting/js/page/network_setting/wired_network/wired_network_setting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4494">
+          <caret line="214" column="24" lean-forward="true" selection-start-line="214" selection-start-column="24" selection-end-line="214" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/factoryCommon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/remote.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="448" column="25" lean-forward="true" selection-start-line="448" selection-start-column="25" selection-end-line="448" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_system_setting/js/uiCustom/uiCommon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="77" lean-forward="false" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_system_setting/js/page/system_setting_menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="122" column="9" lean-forward="true" selection-start-line="122" selection-start-column="9" selection-end-line="122" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/uiCommon/passwdDialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1155">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_system_setting/js/page/cm_information/cm_information.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="185" column="34" lean-forward="true" selection-start-line="185" selection-start-column="34" selection-end-line="185" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_personal_setting/js/uiCustom/dialog/passwdDialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_personal_setting/js/page/personal_setting_menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="129" column="39" lean-forward="false" selection-start-line="129" selection-start-column="39" selection-end-line="129" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_system_setting/js/uiCustom/dialog/passwdDialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1018">
+          <caret line="136" column="21" lean-forward="false" selection-start-line="136" selection-start-column="12" selection-end-line="136" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_system_setting/js/uiCustom/widget/dialog_password_edit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="94" column="39" lean-forward="true" selection-start-line="94" selection-start-column="39" selection-end-line="94" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_system_setting/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="18" column="99" lean-forward="false" selection-start-line="18" selection-start-column="99" selection-end-line="18" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/page/live/noOrder.js" />
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_system_setting/js/page/scan_channel/scan_channel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="89" column="31" lean-forward="false" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/caCommon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/page/live/channellist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2520">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/page/live/ticker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/page/live/caMailDlg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/page/live/caMsgDlg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1638">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/sysCommon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/page/live/banner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6300">
+          <caret line="300" column="63" lean-forward="false" selection-start-line="300" selection-start-column="63" selection-end-line="300" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/dlgCommon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/page/live/caOsdDlg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/epgCommon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5481">
+          <caret line="261" column="6" lean-forward="false" selection-start-line="261" selection-start-column="6" selection-end-line="261" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/languageCommon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3654">
+          <caret line="174" column="4" lean-forward="false" selection-start-line="174" selection-start-column="4" selection-end-line="174" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/dtvCommon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4641">
+          <caret line="221" column="4" lean-forward="false" selection-start-line="221" selection-start-column="4" selection-end-line="221" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/appCommon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3843">
+          <caret line="183" column="4" lean-forward="false" selection-start-line="183" selection-start-column="4" selection-end-line="183" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/dialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1407">
+          <caret line="67" column="62" lean-forward="false" selection-start-line="67" selection-start-column="57" selection-end-line="67" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/reservationCommon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2226">
+          <caret line="106" column="0" lean-forward="false" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/page/epg/epgPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4368">
+          <caret line="208" column="14" lean-forward="true" selection-start-line="205" selection-start-column="11" selection-end-line="208" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_tvportal/js/page/tvportal/tvportal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5922">
+          <caret line="282" column="65" lean-forward="false" selection-start-line="282" selection-start-column="65" selection-end-line="282" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/eventCommon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="44" column="29" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/page/live/livepage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="75" column="38" lean-forward="true" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/page/live/caFingerDlg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="51" column="32" lean-forward="false" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+          <folding>
+            <marker date="1512106339938" expanded="true" signature="1216:1244" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/keyCommon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_livetv/js/uiBase/lcres.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_cns_livetv/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="41" column="38" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cview_app_6z18_dtvBase/uiCommon/lcui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="551" column="30" lean-forward="false" selection-start-line="551" selection-start-column="30" selection-end-line="551" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

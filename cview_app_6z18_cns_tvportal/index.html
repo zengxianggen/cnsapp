@@ -1,0 +1,53 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="1280*720; text/html; charset=utf-8"/>
+
+    <style>
+        *{ margin:0; padding:0; border:0; }
+        html, body{ height:100%; width:100%; }
+    </style>
+
+    <script type="text/javascript" src="../cview_app_6z18_dtvBase/uiCommon/loader.min.js"></script>
+</head>
+
+<body>
+<canvas id="canvasMain" width="1280" height="720"></canvas>
+
+<script>
+    var initLoadFiles = [
+        '../cview_app_6z18_dtvBase/uiCommon/lcui.js',
+        '../cview_app_6z18_dtvBase/uiCommon/uiCommon.js',
+        'js/uiBase/lcres.js',
+        '../cview_app_6z18_dtvBase/uiCommon/passwdDialog.js',
+        'js/page/tvportal/ad.js',
+        'js/page/tvportal/tvportal.js',
+        'js/page/fti/update_checking.js',
+        'js/page/fti/personal_setting.js',
+        'js/page/fti/params_setting.js',
+        'js/page/fti/scan.js'
+    ];
+
+    var secondLoadFiles = [
+        '../cview_app_6z18_dtvBase/uiCommon/jquery-3.2.1.min.js',
+        '../cview_app_6z18_dtvBase/uiCommon/caFingerDlg.js',
+        '../cview_app_6z18_dtvBase/uiCommon/caOsdDlg.js',
+        '../cview_app_6z18_dtvBase/uiCommon/caSuperFinger.js',
+        '../cview_app_6z18_dtvBase/uiCommon/caSuperOsd.js'
+    ];
+
+    Loader.sync(initLoadFiles,function() {
+        starter(function(num){
+            if(sysCom.config.FTI ==1 && sysCom.isPowerBoot){
+                (new UIModule()).go(UpdateCheckPage);
+            }
+            else{
+                (new UIModule()).go(Tvportal);
+            }});
+        Loader.async(secondLoadFiles);
+    });
+
+</script>
+
+</body>
+</html>
+

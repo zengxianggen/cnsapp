@@ -1,0 +1,78 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="1280*720; text/html; charset=utf-8" />
+
+    <style>
+        * { margin: 0; padding: 0; border:0;}
+        html,body{height: 100%; width: 100%;}
+
+    </style>
+
+    <script type="text/javascript" src="../cview_app_6z18_dtvBase/uiCommon/loader.min.js"></script>
+
+
+
+    
+</head>
+
+<body>
+    <canvas id="canvasMain" width="1280" height="720"> </canvas>
+
+    <script>
+
+        var firstLoadFiles = [
+            '../cview_app_6z18_dtvBase/uiCommon/lcui.js',
+            '../cview_app_6z18_dtvBase/uiCommon/uiCommon.js',
+            'js/uiBase/lcres.js',
+            "../cview_app_6z18_dtvBase/uiCommon/passwdDialog.js",
+            'js/uiCustom/widget/dialog_password_edit.js',
+            'js/uiCustom/widget/ui_password_edit.js',
+            'js/uiCustom/widget/ui_time_edit.js',
+
+            'js/page/personal_setting_menu.js',
+            "js/page/parent_child_channel_lock/lock_menu.js"
+        ];
+
+
+
+        var SecondLoadFiles = [
+            'js/uiCustom/dialog/selectDialog.js',
+            'js/uiCustom/dialog/loadDialog.js',
+
+            "js/page/parent_child_channel_lock/lock_right_control.js",
+            "js/page/parent_child_channel_lock/parent_child_lock.js",
+            "js/page/parent_child_channel_lock/channel_lock.js",
+            "js/page/parent_child_channel_lock/work_time_setting.js",
+            "js/page/parent_child_channel_lock/change_password.js",
+            "js/page/personal_password/personal_password.js",
+            "js/page/language_information/language_information.js",
+            "js/page/subtitle/subtitle.js",
+            "js/page/screen_sound/screen_sound.js",
+            "js/page/video_function/video_function.js",
+            "js/page/network_setting/wireless/cm_setting_menu.js",
+            "js/page/network_setting/wireless/cm_right_control.js",
+            "js/page/network_setting/wireless/cm_information.js",
+            "js/page/network_setting/wireless/cm_wifi_setting.js",
+            "js/page/system_information/system_information.js",
+            "js/page/scan_channel/scan_channel.js",
+
+            '../cview_app_6z18_dtvBase/uiCommon/jquery-3.2.1.min.js',
+            '../cview_app_6z18_dtvBase/uiCommon/caFingerDlg.js',
+            '../cview_app_6z18_dtvBase/uiCommon/caOsdDlg.js',
+            '../cview_app_6z18_dtvBase/uiCommon/caSuperFinger.js',
+            '../cview_app_6z18_dtvBase/uiCommon/caSuperOsd.js'
+
+        ];
+
+        Loader.sync(firstLoadFiles,function() {
+            starter(function(num)
+            {
+                (new UIModule()).go(PersonalSettingMenuPage);
+            });
+            Loader.async(SecondLoadFiles);
+        });
+    </script>
+
+</body>
+</html>
+

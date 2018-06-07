@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../cview_app_6z18_cns_epg" />
+    <content url="file://$MODULE_DIR$/../cview_app_6z18_cns_live" />
+    <content url="file://$MODULE_DIR$/../cview_app_6z18_cns_personal_setting" />
+    <content url="file://$MODULE_DIR$/../cview_app_6z18_cns_record_byTime" />
+    <content url="file://$MODULE_DIR$/../cview_app_6z18_cns_recorded_list" />
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$/../cview_app_6z18_cns_system_setting" />
+    <content url="file://$MODULE_DIR$/../cview_app_6z18_cns_tvportal" />
+    <content url="file://$MODULE_DIR$/../cview_app_6z18_dtvBase" />
+    <content url="file://$MODULE_DIR$/../cview_app_6z18_uiCommon" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

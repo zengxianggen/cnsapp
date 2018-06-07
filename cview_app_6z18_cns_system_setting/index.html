@@ -1,0 +1,105 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="1280*720; text/html; charset=utf-8" />
+
+    <style>
+        * { margin: 0; padding: 0; border:0;}
+
+        html,body{height: 100%; width: 100%;}
+
+    </style>
+
+
+
+    <script type="text/javascript" src="../cview_app_6z18_dtvBase/uiCommon/loader.min.js"></script>
+
+
+
+
+
+</head>
+
+<body>
+    <canvas id="canvasMain" width="1280" height="720"> </canvas>
+
+    <script>
+
+
+        var initLoadFiles = [
+            '../cview_app_6z18_dtvBase/uiCommon/lcui.js',
+            '../cview_app_6z18_dtvBase/uiCommon/uiCommon.js',
+            'js/uiBase/lcres.js',
+            "../cview_app_6z18_dtvBase/uiCommon/passwdDialog.js",
+            'js/uiCustom/widget/dialog_password_edit.js',
+            'js/uiCustom/widget/dialog_phone_edit.js',
+            'js/uiCustom/dialog/phoneInputDialog.js',
+            'js/uiCustom/dialog/loadDialog.js',
+            'js/uiCustom/dialog/reportTipsDialog.js',
+            'js/page/system_setting_menu.js'
+
+        ];
+
+
+
+        var SecondLoadFiles = [
+            '../cview_app_6z18_dtvBase/uiCommon/jquery-3.2.1.min.js',
+            '../cview_app_6z18_dtvBase/uiCommon/caFingerDlg.js',
+            '../cview_app_6z18_dtvBase/uiCommon/caOsdDlg.js',
+            '../cview_app_6z18_dtvBase/uiCommon/caSuperFinger.js',
+            '../cview_app_6z18_dtvBase/uiCommon/caSuperOsd.js',
+            'js/3pp/qrcode.js',
+            "js/page/signal_check/signal_check.js",
+            "js/page/scan_channel/scan_channel.js",
+            "js/page/system_update/system_update_menu.js",
+            "js/page/network_setting/network_setting_menu.js",
+            "js/page/network_setting/network_widgets.js",
+            "js/page/network_setting/wireless_network/wireless_setting_menu.js",
+            "js/page/network_setting/wireless_network/right_control.js",
+            "js/page/network_setting/wireless_network/ip_information.js",
+            "js/page/network_setting/wireless_network/dhcp_setting.js",
+            "js/page/network_setting/wireless_network/wifi_setting.js",
+            "js/page/network_setting/wireless_network/wired_devices.js",
+            "js/page/network_setting/wired_network/wired_network_setting.js",
+            "js/page/cm_information/cm_information.js",
+            "js/page/ca_information/ca_information_menu.js",
+            "js/page/ca_information/ca_right_control.js",
+            "js/page/ca_information/card_password_change.js",
+            "js/page/ca_information/stb_card_pair.js",
+            "js/page/ca_information/operator_information.js",
+            "js/page/ca_information/authorization_information.js",
+            "js/page/ca_information/card_information.js",
+            "js/page/ca_information/card_update_information.js",
+            "js/page/restore_factory_settings/restore_factory_settings.js",
+            "js/page/cluster_machine_status/cluster_machine_status.js",
+            "js/page/work_order_return/report.js",
+            "js/page/work_order_return/work_order_return_menu.js",
+            "js/page/work_order_return/query_work_order.js",
+            "js/page/work_order_return/show_work_order.js",
+            "js/page/work_order_return/cm_query.js",
+            "js/page/work_order_return/submit_work_order.js",
+            "js/page/work_order_return/query_cm_mac.js",
+            "js/page/work_order_return/show_cm_mac.js",
+            "js/page/action_opens/action_opens.js",
+            "js/page/action_opens/sms.js",
+            "js/page/bid_setting/bid_setting.js",
+            "js/page/app_update/app_update.js",
+            "js/page/format_hard_disk/format_hard_disk.js",
+            "js/page/debug_information/debug_information.js",
+            "js/page/vbm_switch/vbm_switch.js"
+
+        ];
+
+        Loader.sync(initLoadFiles,function() {
+                starter(function(num)
+                {
+                    (new UIModule()).go(SystemSettingMenuPage);
+                });
+                Loader.async(SecondLoadFiles);
+        });
+
+
+    </script>
+
+</body>
+</html>
+

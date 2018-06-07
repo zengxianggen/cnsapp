@@ -1,0 +1,1 @@
+copy /b remote.js+sysCommon.js+languageCommon.js+dtvCommon.js+appCommon.js+epgCommon.js+eventCommon.js+caCommon.js+lockCommon.js+recordSchCommon.js+reservationCommon.js+fsCommon.js+nmpCommon.js+scanCommon.js+tunerCommon.js+dsmccCommon.js+dialog.js+otaCommon.js+volume.js+dlgCommon.js+keyCommon.js+Cns.js+Fonsview.js+vbmUpload.js+vbmCommon.js+Arealimit.js+Debuginfo.js changhong.js

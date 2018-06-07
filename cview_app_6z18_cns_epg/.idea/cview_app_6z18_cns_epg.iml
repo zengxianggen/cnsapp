@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$/../cview_app_6z18_cns_livetv" />
+    <content url="file://$MODULE_DIR$/../cview_app_6z18_cns_mailbox" />
+    <content url="file://$MODULE_DIR$/../cview_app_6z18_cns_personal_setting" />
+    <content url="file://$MODULE_DIR$/../cview_app_6z18_cns_pvr_recordedList" />
+    <content url="file://$MODULE_DIR$/../cview_app_6z18_cns_pvr_scheduleByEvent" />
+    <content url="file://$MODULE_DIR$/../cview_app_6z18_cns_pvr_scheduleByTime" />
+    <content url="file://$MODULE_DIR$/../cview_app_6z18_cns_pvr_scheduledList" />
+    <content url="file://$MODULE_DIR$/../cview_app_6z18_cns_system_setting" />
+    <content url="file://$MODULE_DIR$/../cview_app_6z18_cns_tvportal" />
+    <content url="file://$MODULE_DIR$/../cview_app_6z18_dtvBase" />
+    <content url="file://$MODULE_DIR$/../cview_app_common_pic" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

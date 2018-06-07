@@ -1,0 +1,35 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="1280*720; text/html; charset=utf-8"/>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            border: 0;
+        }
+
+        html, body {
+            height: 100%;
+            width: 100%;
+
+        }
+
+    </style>
+    <script type="text/javascript" src="../cview_app_6z18_dtvBase/uiCommon/lcui.js"></script>
+    <script type="text/javascript" src="../cview_app_6z18_dtvBase/uiCommon/uiCommon.js"></script>
+    <script type="text/javascript" src="js/uiBase/lcres.js"></script>
+    <script type="text/javascript" src="js/page/standby.js"></script>
+</head>
+<body>
+<canvas id="canvasMain" width="1280" height="720"></canvas>
+
+<script>
+    starter(function (num)
+    {
+        (new UIModule()).go(StandbyPage);
+    });
+</script>
+
+</body>
+</html>

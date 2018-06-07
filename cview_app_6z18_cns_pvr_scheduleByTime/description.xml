@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--            Copyright 2014-2016 ARRIS Enterprises, Inc. All rights reserved.
+
+   This program is confidential and proprietary to ARRIS Enterprises, Inc. (ARRIS),
+   and may not be copied, reproduced, modified, disclosed to others,
+   published or used, in whole or in part, without the express prior written
+   permission of ARRIS.
+
+-->
+<app_desc>
+    <app_info>
+        <!-- develop vendor name, such as HGI -->
+        <app_vendor>changhong</app_vendor>
+        <!-- application launch name, it means other application can switch to current application by this name, such as epg -->
+        <launch_app_name>pvrScheduleByTime</launch_app_name>
+        <!-- application embedded attribute, it means CAP won't deliver KAPK and Clinet should trace this app from its embedded application path. -->
+        <embedded>1</embedded>
+        <!-- application UI display name, format is #<ISO639-2 Code>#<name>;[#<ISO639-2 Code>#<name>;], such as #eng#Epg; -->
+        <app_name>#eng#Record by Time;#chi#定時預約;</app_name>
+        <!-- application icon name, such as ico_epg.png -->
+        <icon>ico_pvr_scheduleByTime_normal.png</icon>
+        <!-- application version, format is <x.y.z>, such as 1.0.0 -->
+        <version>1.00</version>
+        <!-- 0 ??Portal; 1 ??Folder; 2 ??Application (default); 3 ??Bound; 4 - Global -->
+        <category>2</category>
+        <!-- Flash Size for application, unit is KB -->
+        <size>1776</size>
+        <!-- RAM Size for application, unit is KB -->
+        <ram>50</ram>
+        <!-- Dependency to platform version <x.y.z>, such as 1.0.0 -->
+        <dependency>1.7</dependency>
+        <!-- application brief description info, maximum 256 characters -->
+        <description>changhong cview</description>
+        <!-- options is 1 or 0,
+             1: the application will be downloaded first when updated.
+             0: the application will be downloaded when subscriber try to launch it in TV Portal.
+        -->
+        <force_download>1</force_download>
+        <!-- options is 1 or 0,
+             1: 1-way distribution is allowed. This application can be distributed by either 2way ,1-way or both.
+             0: 1-way distribution is not allowed. This application can be distributed by 2-way only.
+        -->
+        <one_way>1</one_way>
+        <!-- application launch type, options: front, service, daemon, front_service or front_daemon
+             if set front_service, need add <internal_service_path> tag;
+             if set front_daemon , need add <internal_daemon_path> tag
+        -->
+        <app_launch_type>front</app_launch_type>
+        <!-- birthday: the date of birth for application, format is YYYY-MM-DD hh:mm:ss -->
+        <birthday>2017-09-20 0:0:0</birthday>
+    </app_info>
+</app_desc>
